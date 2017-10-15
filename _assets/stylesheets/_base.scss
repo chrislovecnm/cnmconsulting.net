@@ -51,7 +51,7 @@ a {
     max-width: 100%;
     margin-top: 0;
     position: relative;
-    max-height:460px;
+    max-height:1005px;
     overflow:hidden;
     background:#eee;
     
@@ -90,7 +90,7 @@ a {
 
 .blog-cover {
     @extend .article-cover;
-    height: 320px;
+    height: 1007px;
     background-color:#111;
     background-size:cover;
     background-position:center center;
