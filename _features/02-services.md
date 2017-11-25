@@ -1,8 +1,7 @@
 ---
 id: services
 name: Services
-heading: The Second Heading
-subheading: Is Pretty Cool Too.
+heading: Services
 image: "http://placehold.it/500x500"
 ---
 

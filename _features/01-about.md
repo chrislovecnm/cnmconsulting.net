@@ -1,8 +1,7 @@
 ---
 id: about
 name: About
-heading: This First Heading
-subheading: Will Catch Your Eye
+heading: About Us
 image: "http://placehold.it/500x500"
 ---
 

@@ -1,8 +1,7 @@
 ---
 id: contact
 name: Contact
-heading: The Third Heading
-subheading: Will Seal the Deal.
+heading: Contact Us
 image: "http://placehold.it/500x500"
 ---
 
