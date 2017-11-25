@@ -1,13 +1,13 @@
 inc:
   # Blog Information
-  title:        "CNM Consulting Incorporated"
+  title:        "CNM Consulting"
   subtitle:     "Helping Clients With Kubernetes"
   cover_image:  background-1510.jpg
   logo:         logo.png
 
   # Company information
-  company:      CNM Consulting Incorporated
-  url:          https://cnmconsulting.net
+  company:      CNM Consulting
+  url:          http://cnmconsulting.net
 #  facebook:     sendtoinc
 #  twitter:      sendtoinc
 #  gplus:        '101183822199340201470'
