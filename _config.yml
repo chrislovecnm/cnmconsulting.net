@@ -124,3 +124,10 @@ assets:
   cache: false
   gzip: [ text/css, application/javascript ]
   debug: false
+
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+
