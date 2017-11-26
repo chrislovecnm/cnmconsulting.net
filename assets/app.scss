@@ -2,7 +2,7 @@
 layout: compress
 ---
 /* CONFIGURATION */
-  
+
 /* Bodytext font */
 $font: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
@@ -21,3 +21,5 @@ $accent: #2077b2;
 @import 'nav';
 @import 'header';
 @import 'main';
+@import 'main';
+@import 'scrolling';
