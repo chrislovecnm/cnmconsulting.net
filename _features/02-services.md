@@ -5,4 +5,7 @@ heading: Services
 image: "http://placehold.it/500x500"
 ---
 
-Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+CNM Consulting provides Kubernetes Cloud Native Consulting that covers a broad
+range of areas. With us, you can tap into our experience to ensure your optimal
+deployment of your Kubernetes infrastructure, your applications are optimized,
+and your staff can operate and maintain and support competently.
