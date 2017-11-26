@@ -45,7 +45,7 @@ $spacing-unit-custom:     30px !default;
 }
 
 .form-style-10{
-	width:450px;
+	//width:450px;
 	padding:30px;
 	margin-left:4px;
 	background: #FFF;
@@ -162,16 +162,19 @@ $spacing-unit-custom:     30px !default;
 	text-align: right;
 }
 
-.About {
+.about {
     background-color: #D9B310;
 }
 
+.img-contact, .img-about {
+    @extend .img-circle;
+}
 
-.Services {
+.services {
   background-color: #328CC1;
 }
 
-.Contact {
+.contact {
   background-color: #0B3C5D;
   h2 {
     color: #fff;

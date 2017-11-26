@@ -3,6 +3,7 @@ id: about
 name: About
 heading: About Us
 image: "http://placehold.it/500x500"
+class: about
 ---
 
 We are a Professional Services Consultancy who has been helping clients for

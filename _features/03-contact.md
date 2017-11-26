@@ -3,7 +3,10 @@ id: contact
 name: Contact
 heading: Contact Us
 image: "http://placehold.it/500x500"
+class: contact
 ---
+<div class="row"> 
+<div class="col-md-6"> 
 <div class="form-style-10">
 <form method="POST" action="https://formspree.io/info+contact@cnmconsulting.net">
 <div class="inner-wrap">
@@ -15,5 +18,7 @@ image: "http://placehold.it/500x500"
 <input type="submit" name="Submit" />
 </div>
 </form>
+</div>
+</div>
 </div>
 

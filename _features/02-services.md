@@ -2,6 +2,7 @@
 id: services
 name: Services
 heading: Services
+class: services
 image: "/images/k8s_logo.svg"
 ---
 
