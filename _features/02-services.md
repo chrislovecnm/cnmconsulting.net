@@ -2,7 +2,7 @@
 id: services
 name: Services
 heading: Services
-image: "http://placehold.it/500x500"
+image: "/images/k8s_logo.svg"
 ---
 
 CNM Consulting provides Kubernetes Cloud Native Consulting that covers a broad
